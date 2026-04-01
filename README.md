@@ -30,6 +30,3 @@ The application is built using **Flutter**, following the **MVVM (Model-View-Vie
   <img src="screenshots/stream.png" width="200" title="Streaming">
   <img src="screenshots/review.png" width="200" title="Reviews">
 </p>
-
----
-*Developed with Flutter*
